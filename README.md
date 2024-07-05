@@ -1,11 +1,9 @@
-![image](https://github.com/dinesh6351/Business_insight_360_AtliQ_Hardware/assets/81980689/bd68bcfe-555b-45a5-98d9-d0dbb26eb98c)# Business_insight_360_AtliQ_Hardware
-# Business Insights 360
-
+## Business_insight_360_AtliQ_Hardware
 ## Project Overview 
 
 AtliQ Hardware is experiencing rapid growth, prompting the implementation of data analytics using Power BI to leverage insights from a dataset exceeding a million records. This initiative aims to extract actionable insights across Finance, Sales, Marketing, Supply Chain, and Executive domains.
 
-[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiNDFkNzRkODQtODQ0Yi00Yzc0LTg5OGYtMWIwMDI3NGM0ZmUzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[Live Report Link](https://app.powerbi.com/groups/429af295-19db-4da8-b04c-24caea07ee01/reports/e2fc929f-3eac-4666-914d-3e68d665343f?ctid=9ae52962-ca43-465e-9bd7-1651122d857a&pbi_source=linkShare&bookmarkGuid=5105d173-4779-4d3d-a5d1-db714ccd3dd4)
 
 ## Project Goal
 The primary objective is to utilize financial analytics to optimize AtliQ Hardware's performance and profitability. By analyzing the company's financial data, the goal is to uncover actionable insights empowering decision-makers to make informed strategic choices and drive sustainable growth.
@@ -124,7 +122,8 @@ The database being MySQL, datasets need to be imported from MySQL database to Po
 
 Data modelling is the foundation of any report, dictating its overall performance. Poor data modelling can significantly impact report efficiency. Following best practices is essential, and in this project, we've adopted the Snowflake data modelling method.
 
-<img src="https://github.com/Harshal-Executive/Business_Insight_360/blob/main/Files/Data%20Modeling.png" class="center">
+![image](https://github.com/dinesh6351/Business_insight_360_AtliQ_Hardware/assets/81980689/77966344-b856-4731-90bd-45bb9256b0b1)
+
 
 ### Dashboard designing
 
@@ -144,31 +143,34 @@ In Home view, all the views button will be available. Users will navigate to spe
 
 ## Home Page
 
-![image](https://github.com/dinesh6351/Business_insight_360_AtliQ_Hardware/assets/81980689/d1a2b09a-cfbb-4d20-84b5-5f20f1b41370)
+![Home](https://github.com/dinesh6351/Business_insight_360_AtliQ_Hardware/blob/main/Files/Home.png)
 
 ## Info Page
 
-![Info.gif](https://github.com/Harshal-Executive/Business_Insight_360/blob/main/Files/Info.gif)
+![Info](https://github.com/dinesh6351/Business_insight_360_AtliQ_Hardware/blob/main/Files/Info.png)
 
 ## Finance View
 
-![Finace.gif](https://github.com/Harshal-Executive/Business_Insight_360/blob/main/Files/Finance.gif)
+![Financial](https://github.com/dinesh6351/Business_insight_360_AtliQ_Hardware/blob/main/Files/Financial%20View.png)
 ## Sales View
 
-![Sales.gif](https://github.com/Harshal-Executive/Business_Insight_360/blob/main/Files/Sales.gif)
+![Sales](https://github.com/dinesh6351/Business_insight_360_AtliQ_Hardware/blob/main/Files/Sales%20View.png)
 
 ## Marketing View
 
-![Marketing.gif](https://github.com/Harshal-Executive/Business_Insight_360/blob/main/Files/Marketing.gif)
+![Marketing](https://github.com/dinesh6351/Business_insight_360_AtliQ_Hardware/blob/main/Files/Market%20View.png)
 
 ## Supply chain View
 
-![Supply chain.gif](https://github.com/Harshal-Executive/Business_Insight_360/blob/main/Files/Supply_Chain.gif)
+![Supply chain](https://github.com/dinesh6351/Business_insight_360_AtliQ_Hardware/blob/main/Files/Supply%20Chain%20View.png)
 
 ## Executive View
 
-![Executive.gif](https://github.com/Harshal-Executive/Business_Insight_360/blob/main/Files/Executive.gif)
+![Executive](https://github.com/dinesh6351/Business_insight_360_AtliQ_Hardware/blob/main/Files/Executive%20View.png)
 
+## Support View 
+
+![Support](https://github.com/dinesh6351/Business_insight_360_AtliQ_Hardware/blob/main/Files/Support.png)
 
 ## Project Impact
 
