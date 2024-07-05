@@ -3,7 +3,7 @@
 
 AtliQ Hardware is experiencing rapid growth, prompting the implementation of data analytics using Power BI to leverage insights from a dataset exceeding a million records. This initiative aims to extract actionable insights across Finance, Sales, Marketing, Supply Chain, and Executive domains.
 
-[Live Report Link](https://app.powerbi.com/groups/429af295-19db-4da8-b04c-24caea07ee01/reports/e2fc929f-3eac-4666-914d-3e68d665343f?ctid=9ae52962-ca43-465e-9bd7-1651122d857a&pbi_source=linkShare&bookmarkGuid=5105d173-4779-4d3d-a5d1-db714ccd3dd4)
+[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiZWM4MzczOWMtNGRmYS00Mzk5LWI5NDktNzQzZTVlOTFkMjg5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=db9ea263e0755af8a0f1)
 
 ## Project Goal
 The primary objective is to utilize financial analytics to optimize AtliQ Hardware's performance and profitability. By analyzing the company's financial data, the goal is to uncover actionable insights empowering decision-makers to make informed strategic choices and drive sustainable growth.
